@@ -1,6 +1,6 @@
 # Recomendadores🍿🎬
 
-En este notebook voy agregando distintos recomendadores que uso (su idea/notebooks).
+En este notebook voy agregando distintos recomendadores que uso (su idea/notebooks) cuando tengo un gran volumen de datos.
 
 ![](https://media0.giphy.com/media/sdjzyK11BKMRK5fw3q/giphy.gif?cid=ecf05e47u19eezuwyg8vvhp4owuyjdjsutcuvlgmy9lhex6y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
