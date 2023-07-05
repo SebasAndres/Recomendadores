@@ -1,4 +1,4 @@
-# Recomendadores
+# Recomendadores🍿🎬
 
 En este notebook voy agregando distintos recomendadores que uso (su idea/notebooks).
 
