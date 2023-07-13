@@ -4,8 +4,7 @@ En este notebook voy agregando distintos recomendadores que uso (su idea/noteboo
 
 ![](https://media0.giphy.com/media/sdjzyK11BKMRK5fw3q/giphy.gif?cid=ecf05e47u19eezuwyg8vvhp4owuyjdjsutcuvlgmy9lhex6y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Dividi los recomendadores en dos tipos: 
-> [Clic models](./Clic%20Models/): Aquellos en los que solo contamos con un evento univaluado (tipo clic) para recomendar.<br>
-> [Rating models](./Rating%20Models/): Aquellos en los que contamos con una valoracion categorica de un item por parte de un usuario. 
-
-Observacion: Actualmente estoy trabajando con Clic Models, a futuro voy a agregar Rating Models (ALS, Collab-Filtering type, Content-Based type) 
+Recomendadores: 
+> [Alternating Least Squares](src/als/): Util tanto para datos implicitos como explicitos (collab-filtering). <br>
+> [Simple Algorithm for Recommendation](src/sar/): Util para datos implicitos. <br>
+> [Recomendador por Espacios Vectoriales](src/vect_sfn): Idea de recomendador.
