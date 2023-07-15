@@ -4,7 +4,7 @@ import pandas as pd
 class Interpreter():
 
     def __init__(self, elastic_metadata):
-        self.elastic_metadata = elastic_metadata 
+        self.elastic_metadata = elastic_metadata #
         pass
 
     def describirItem(self, group_id:int) -> tuple:
